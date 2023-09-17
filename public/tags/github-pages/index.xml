@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Github pages - Tag - David Barré&#39;s website</title>
+    <link>https://david.bar.re/tags/github-pages/</link>
+    <description>Github pages - Tag - David Barré&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 Sep 2023 17:55:15 &#43;0200</lastBuildDate><atom:link href="https://david.bar.re/tags/github-pages/" rel="self" type="application/rss+xml" /><item>
+  <title>About this site</title>
+  <link>https://david.bar.re/posts/about_this_site/</link>
+  <pubDate>Sun, 17 Sep 2023 17:55:15 &#43;0200</pubDate>
+  <author>Author</author>
+  <guid>https://david.bar.re/posts/about_this_site/</guid>
+  <description><![CDATA[All the information you need on this website]]></description>
+</item>
+</channel>
+</rss>

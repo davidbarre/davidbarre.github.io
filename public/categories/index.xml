@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Categories - Category - David Barré&#39;s website</title>
+    <link>https://david.bar.re/categories/</link>
+    <description>Categories - Category - David Barré&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 Sep 2023 17:55:15 &#43;0200</lastBuildDate><atom:link href="https://david.bar.re/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>Misc</title>
+  <link>https://david.bar.re/categories/misc/</link>
+  <pubDate>Sun, 17 Sep 2023 17:55:15 &#43;0200</pubDate>
+  <author>Author</author>
+  <guid>https://david.bar.re/categories/misc/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
