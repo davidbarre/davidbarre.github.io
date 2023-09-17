@@ -45,4 +45,4 @@ The theme used by the site is  [Fixit](https://fixit.lruihao.cn) ([Fixit on gith
 
 Code source of this website is available [here](https://github.com/davidbarre/davidbarre.github.io) 
 
-Hosting is provided by [Github pages](https://pages.github.com/)
+Hosting is provided by [Github pages](https://pages.github.com/) following this [github actions workflow](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
